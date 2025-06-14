@@ -79,7 +79,7 @@ Atualmente estou focado em:
 | Projeto | site | Descrição | Tecnologias | Status | Versão |
 |---------|------|-----------|-------------|--------|--------|
 | [portfolio](https://github.com/panpandev/portfolio) | [site](https://portfolio-16fbed.gitlab.io/) | pagina simples de portfolio completo | [![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev) | 🟢 pronto | 1.0 +-+ |
-|[wifiqr](https://github.com/panpandev/wifiqr) | [site](https://wifiqr-9e931bec60a8.herokuapp.com/) | gerador de qrcode para rede wifi | [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs&theme=dark)](https://skillicons.dev) | 🟢 pronto | 1.0 +-+ |
+|[wifiqr](https://github.com/panpandev/wifiqr) | [site](https://wifiqr-5d0ce26247c7.herokuapp.com/) | gerador de qrcode para rede wifi | [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs&theme=dark)](https://skillicons.dev) | 🟢 pronto | 1.0 +-+ |
 </details>
 
 
