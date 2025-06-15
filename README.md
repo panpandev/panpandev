@@ -95,6 +95,7 @@ Atualmente estou focado em:
 |-|
 | [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=panpandev)](https://github.com/panpandev/github-readme-stats) |
 
+<img src="https://raw.githubusercontent.com/panpandev/panpandev/output/snake.svg" alt="Snake animation" />
 ---
 
 ## 📫 Contato
