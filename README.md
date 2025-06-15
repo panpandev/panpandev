@@ -88,13 +88,13 @@ Atualmente estou focado em:
 ## 📊 Estatísticas do GitHub
 | estatisticas | linguengens |
 |--------------|-------------|
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=panpandev&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panpandev&theme=radical&layout=donut) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=panpandev&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panpandev&theme=radical) |
 
 | estatisticas de tempo de codigo |
 |-|
 | [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=panpandev)](https://github.com/panpandev/github-readme-stats) |
 
-[![wakatime](https://wakatime.com/badge/user/ea36cf1f-4d8e-4ac3-8f11-4a24f1c8e5ef.svg)](https://wakatime.com/@panpandev)
+[![wakatime](https://wakatime.com/badge/user/ea36cf1f-4d8e-4ac3-8f11-4a24f1c8e5ef.svg)](https://wakatime.com/@ea36cf1f-4d8e-4ac3-8f11-4a24f1c8e5ef)
 
 ---
 
